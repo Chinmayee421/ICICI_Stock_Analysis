@@ -1,7 +1,3 @@
-Here's the updated version with emphasis on the heading fonts:
-
----
-
 # **ICICI Stock Performance Analysis 📊**
 
 **Objective:**  
@@ -23,6 +19,3 @@ This project aims to analyze the stock performance of ICICI Bank, leveraging his
 - **Risk Management ⚖️:** Employ solid risk strategies to mitigate potential losses.  
 - **Trend Analysis 📊:** Continuously assess market trends to stay ahead and make informed decisions.
 
----
-
-This should make the headings stand out more!
